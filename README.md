@@ -1,5 +1,4 @@
-# ECE-250-PROJECTS
-This repository contains the first ECE 250 Projects completed as a student of the University of Waterloo
+Linked List
 ------------------------------------------------------------------------------------------------------------------------------
 Project Objectives:
 
